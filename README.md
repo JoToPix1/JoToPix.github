@@ -1,1 +1,1 @@
-# Wok
+# Pour tout ajout ou modification de fonctionalités veuillez vous référez au commentaire et respecter les normes de développmeent 
